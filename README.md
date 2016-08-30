@@ -1,10 +1,7 @@
 # thirdbrain
-```cognitive system```
 
-__O__bserve
-__L__earn
-__A__ct
-```for``` __C__ommand
+###### A cognitive system that, Observes, Learns and Act for given Command
+
 ### OLACL
 A hybrid command language to merge meaning and reason from cognitively designed languages such as human language and logical machine environment. The language should utilise mathematical functions and reasoning to define the overlap.
 
